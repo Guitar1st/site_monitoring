@@ -1,0 +1,9 @@
+[
+  {
+    "url": "http://google.com"
+  },
+  {
+    "url": "http://yandex.ru",
+    "regexp": ".*"
+  }
+]

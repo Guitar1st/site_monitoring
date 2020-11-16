@@ -1,0 +1,1 @@
+./env/bin/site_monitoring monitor --kafka-server "kafka-site-monitoring-kvasovdmitry-7cd9.aivencloud.com:19234" --kafka-topic monitoring-results --ssl ssl --sites-file sites.json

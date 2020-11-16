@@ -1,0 +1,8 @@
+{
+    "dbname": "defaultdb",
+    "user": "avnadmin",
+    "password": "kz42pg55cg5w1lzx",
+    "host": "pg-site-monitoring-kvasovdmitry-7cd9.aivencloud.com",
+    "port": "19232",
+    "sslmode": "require"
+}
